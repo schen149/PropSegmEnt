@@ -1,5 +1,13 @@
 # PropSegmEnt: A Large-Scale Corpus for ***Prop***osition-Level ***Segm***entation and ***Ent***ailment Recognition
 
+## Update 2/28/2023
+
+Added processed versions of the dataset for the Proposition segmentation and entailment recognition tasks respectively. We format the dataset in text2text input/output format.  
+
+<img src="https://production-media.paperswithcode.com/datasets/aa388a21-4e61-492a-9f03-380388e86e75.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" />
+
+
+## What is this dataset?
 PropSegmEnt is an annotated dataset for segmenting English text into propositions, and recognizing proposition-level entailment relations --- whether a different, related document entails each proposition, contradicts it, or neither.
 
 The dataset annotates samples of document clusters from two datasets with topically clustered documents:
