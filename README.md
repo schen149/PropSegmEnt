@@ -4,6 +4,8 @@
 
 Added processed versions of the dataset for the Proposition segmentation and entailment recognition tasks respectively. We format the dataset in text2text input/output format.  
 
+The NewSHead portion of the dataset is crawled with Newspaper3k and NewsPlease. The re-crawled dataset misses ~4% overall examples from the dataset.  
+
 <img src="https://production-media.paperswithcode.com/datasets/aa388a21-4e61-492a-9f03-380388e86e75.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" />
 
 
